@@ -60,7 +60,7 @@ mz_isolation(연령 REAL, 소득그룹 TEXT, 소득레이블 TEXT, 소득코드 
 
 | 데이터명 | 출처 | 행 수 |
 |---|---|---|
-| 한국인의 행복조사 2023 | KOSSDA (kor_data_20230039_V1_1.sav) | 16,305행 |
+| 한국인의 행복조사 2023 https://kossda.snu.ac.kr/handle/20.500.12236/28199 | KOSSDA (kor_data_20230039_V1_1.sav) | 16,305행 |
 | MZ세대 필터링 후 | AGE 19~39세 | 4,626행 |
 
 ### 테이블 구성
